@@ -1,5 +1,5 @@
-# Cheatsheet for git
-This sheet (based on the official [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)) lists the most commonly used git commands.
+# Cheat sheet for git
+This cheat sheet (based on the official [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)) lists the most commonly used git commands.
 
 ## Setup
 Configuring user information across all local repositories.
