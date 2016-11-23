@@ -26,7 +26,7 @@ Starting a new repository or obtaining from an external source.
 
 **Retrieve an entire repository from a hosted location via URL**
 
-[//]: #```git clone [url]```
+[//]: # (```git clone [url]```)
 
 ## Stage & Snapshot
 Working with snapshots and the git staging area.
