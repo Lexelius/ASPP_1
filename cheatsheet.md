@@ -1,6 +1,7 @@
 # Cheat sheet for git
 This cheat sheet (based on the official [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)) lists the most commonly used git commands.
 
+<br>
 ## Setup
 Configuring user information across all local repositories.
 
@@ -16,6 +17,7 @@ Configuring user information across all local repositories.
 
 ```...put the command here...```
 
+<br>
 ## Initialization
 Starting a new repository or obtaining from an external source.
 
@@ -27,6 +29,7 @@ Starting a new repository or obtaining from an external source.
 
 ```...put the command here...```
 
+<br>
 ## Stage & Snapshot
 Working with snapshots and the git staging area.
 
@@ -54,6 +57,7 @@ Working with snapshots and the git staging area.
 
 ```...put the command here...```
 
+<br>
 ## Branch & Merge
 Isolating work in branches, changing context, and integrating changes.
 
@@ -77,6 +81,7 @@ Isolating work in branches, changing context, and integrating changes.
 
 ```...put the command here...```
 
+<br>
 ## Share & Update
 Retrieving updates from another repository and updating local repos.
 
