@@ -9,9 +9,9 @@
 ## Exercise 2: Contribute to a collaborative project
 1. Create a local copy (clone) of the following project:  [https://github.com/uu-python/particpants](https://github.com/uu-python/particpants)
 2. Create a new branch "yourname"
-3. Edit a certain section of the file ```cheatsheet.md``` which was given to you by the teachers.
+3. Edit the file of your neighbour or someone else (e.g. describe the person, write a message, ...)
 4. Commit your changes and give a meaningful log message
-5. Push your local to remote branch with the same name
+5. Push your local branch to remote branch with the same name
 6. Switch to the master branch and merge the branch “yourname" into master
 7. Update local master branch (pull)
 8. Update remote master branch (push)
