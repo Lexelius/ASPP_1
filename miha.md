@@ -1,2 +1,2 @@
-write *,* "Hello world"
+SGVsbG8gY3VyaW91cyBwZXJzb24sIEknbSBNaWhhIGFuZCBJIGxpa2UgUHl0aG9u\n
 
