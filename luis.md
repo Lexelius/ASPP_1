@@ -1,4 +1,3 @@
 	
 	konnichiwa
 
-    Itadakimasu!
