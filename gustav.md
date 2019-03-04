@@ -8,4 +8,3 @@ print("Hello")
 time.sleep(10)
 print("World")
 ```
-<blink>Is this text blinking?</blink>
