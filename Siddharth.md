@@ -1,1 +1,1 @@
-A PhD student in the Engineering Sciences department as Uppsala University.
+A PhD student in the department of Engineering Sciences at Uppsala University.
