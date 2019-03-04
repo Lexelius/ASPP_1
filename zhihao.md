@@ -1,1 +1,1 @@
-My name is Zhihao Gao. A PhD student
+My name is Zhihao Gao, a PhD student from the applied nuclear physics division.
