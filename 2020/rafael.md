@@ -1,5 +1,5 @@
 Hi! I am a postdoc at Department of Mathematics, Uppsala.
-
-I really hope I got this correctly...
+I come from Croatia.
+Thanks for reading.
 
 Rafael
