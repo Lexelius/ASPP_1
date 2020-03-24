@@ -4,3 +4,5 @@ Let's write a list of things to do:
 - 2. Find a cure for the Covid19
 - 3. Unify the world
 - 4. Dominate the world
+
+Hey Leandro! Hope you make it. :) Rafael
