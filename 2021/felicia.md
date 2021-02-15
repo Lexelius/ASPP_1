@@ -1,1 +1,2 @@
-Hello! I'm Felicia. I work with molecular catalysts.
+Hello! I'm Felicia and I'm a second year PhD student. 
+I work with molecular catalysts.
